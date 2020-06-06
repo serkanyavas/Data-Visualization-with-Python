@@ -3,7 +3,7 @@ Data URL:[https://www.kaggle.com/claudiodavi/superhero-set](https://www.kaggle.c
 
 * Using Matplotlib, Seaborn, Bokeh
 
-* Made for Introduction to Big Data lesson.
+* Made for Introduction to Big Data Analysis lesson.
 
 * VKI=Body Mass Index(https://en.wikipedia.org/wiki/Body_mass_index)
 
